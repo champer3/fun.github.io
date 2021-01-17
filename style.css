@@ -1,0 +1,38 @@
+*{
+    background-color: whitesmoke;
+    color: rgb(248, 24, 136);
+    
+}
+
+.container{
+    margin: 300px;
+    margin-top: 150px;
+    border: 2px solid rgb(73, 128, 0);
+    text-align: center;
+}
+h1{
+    font-size: 100px;
+    margin-top: 5px;
+}
+
+p{
+    font-size: x-large;
+}
+
+button{
+    color: honeydew;
+    background-color: hotpink;
+    height: 40px;
+    width: 200px;
+    box-shadow: 2px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.ageInput{
+    height: 40px;
+    width: 200px;
+    border-radius: 5px;
+    border: 3px solid pink;
+    color: black;
+}
